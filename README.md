@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RedCrafter9981
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Minecraft
